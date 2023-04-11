@@ -1,4 +1,4 @@
-## Ola, tudo bem? Eu sou o Eduardo Backes 😎👋
+## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com FrontEnd/Backend
 - 🌱 Atualmente estudando PHP e banco de dados
