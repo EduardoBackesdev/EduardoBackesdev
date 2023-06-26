@@ -1,6 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com FrontEnd/Backend
+- Me especializando em Backend
 - 💻 Criador de conteudo no Youtube
 
 <div> 
