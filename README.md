@@ -1,8 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com FrontEnd/Backend
-- Me especializando em Backend
-- 💻 Criador de conteudo no Youtube
+- 💻 Me especializando em Backend | Python | Django | Java | Spring Boot |
 
 <div> 
   <a href="https://www.youtube.com/channel/UCdGIcmssUYleKqNOgaq_ScA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
