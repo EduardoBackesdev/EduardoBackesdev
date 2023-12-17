@@ -1,7 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com FrontEnd/Backend
-- 💻 Me especializando em Desenvolvimento Web
+- 💻 Estudando atualmente JAVA
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
 
 <div> 
