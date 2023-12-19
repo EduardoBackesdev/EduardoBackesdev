@@ -1,7 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com FrontEnd/Backend
-- 💻 Me especializando em desenvolvimento Fullstack
+- 💻 Me especializando em Backend
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
 
 <div> 
