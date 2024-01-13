@@ -1,8 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com Backend
-- 💻 Me especializando em JAVA
-- 🖱️ Outras linguagens: Html, Css, Js, Php, MySql
+- 💻 Me especializando em JAVA | Spring Boot | Micro Serviços
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
 
 
