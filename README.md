@@ -1,7 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
 - 🔭 Trabalho com Backend
-- 💻 Me especializando em JAVA | Spring Boot | Micro Serviços
+- 💻 Me especializando em JAVA | Spring Boot | WebServices
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
 
 
