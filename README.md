@@ -1,7 +1,7 @@
 ## Ola, tudo bem? Eu sou o Eduardo Backes 😎
 
-- 🔭 Trabalho com Backend
-- 💻 Me especializando em JAVA | Spring Boot | APIs | WebServices
+- 🔭 Trabalho com desenvolvimento FullStack
+- 💻 Me especializando em tecnologias voltadas a Javascript
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
 
 
