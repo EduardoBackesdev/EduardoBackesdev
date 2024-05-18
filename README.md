@@ -1,4 +1,4 @@
-## Ola, tudo bem? Eu sou o Eduardo Backes 😎
+## Ola, tudo bem? Eu sou o Eduardo Backes 👨‍💻
 
 - 🔭 Trabalho com desenvolvimento Fullstack
 - 📚 3° semestre Analise e Desenvolvimento de sistemas
