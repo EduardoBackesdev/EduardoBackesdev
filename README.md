@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho com desenvolvimento Fullstack
 - 📚 Analise e Desenvolvimento de sistemas
-- Faixa azul Jiu Jitsu 🟦🟦⬛⬛🟦
 <div> 
   <a href="https://www.linkedin.com/in/eduardo-abne-backes-da-silva-25b90525a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
